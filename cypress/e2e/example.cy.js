@@ -1,0 +1,39 @@
+describe('My First Test', () => {
+  it('Does not do much!', () => {
+    expect(true).to.equal(true)
+  });
+  it('But I don\'t sell me short!', () => {
+    expect(true).to.equal(true);
+    expect(true).to.equal(true);
+    expect(true).to.equal(true);
+    expect(true).to.equal(true);
+    expect(true).to.equal(true);
+    expect(true).to.equal(true);
+    expect(true).to.equal(true);
+    expect(true).to.equal(true);
+    expect(true).to.equal(true);
+    expect(true).to.equal(true);
+    expect(true).to.equal(true);
+    expect(true).to.equal(true);
+    expect(true).to.equal(true);
+    expect(true).to.equal(true);
+    expect(true).to.equal(true);
+    expect(true).to.equal(true);
+    expect(true).to.equal(true);
+    expect(true).to.equal(true);
+    expect(true).to.equal(true);
+    expect(true).to.equal(true);
+    expect(true).to.equal(true);
+    expect(true).to.equal(true);
+    expect(true).to.equal(true);
+    expect(true).to.equal(true);
+    expect(true).to.equal(true);
+    expect(true).to.equal(true);
+    expect(true).to.equal(true);
+    expect(true).to.equal(true);
+    expect(true).to.equal(true);
+    expect(true).to.equal(true);
+    expect(true).to.equal(true);
+    expect(true).to.equal(true);
+  })
+})
